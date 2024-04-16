@@ -1400,4 +1400,4 @@ eos/home-l/leyan/HSCP2024/HSCP_AN17_192/CMSSW_8_0_30/SUSYBSMAnalysis/HSCP_AN17_1
 #            April 2010            #
 ####################################
 
-1378 Job(s) has/have been submitted on the Computing ClusterEnter GRID pass phrase for this identity:
+1378 Job(s) has/have been submitted on the Computing Cluster
